@@ -7,7 +7,7 @@
    
    <img src="https://img.shields.io/github/languages/count/vinisantosn/collections-java"/>
    <img src="https://img.shields.io/github/repo-size/vinisantosn/collections-java"/>
-   <img src="https://img.shields.io/github/last-commit/vinisantosn/collections-javaa"/>
+   <img src="https://img.shields.io/github/last-commit/vinisantosn/collections-java"/>
    <img src="https://img.shields.io/github/issues/vinisantosn/collections-java"/>
  
  
@@ -31,7 +31,7 @@ O estudo se dirige a **Collections Framework API** mediado pelo curso Conhecendo
 - Temos quatro grandes tipos de coleções: `List` (lista), `Set` (conjunto), `Queue` (fila) e `Map` (mapa), a partir dessas interfaces, temos muitas subclasses concretas que implementam varias formas diferentes de se trabalhar com cada coleção.
 
 <p align="center">
-<img href="https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/03/hierarchy-of-collection-framework-in-java.webp"><br>
+<img src="/hierarchy-of-collection-framework-in-java.png"><br>
 <a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
 </p>
 
