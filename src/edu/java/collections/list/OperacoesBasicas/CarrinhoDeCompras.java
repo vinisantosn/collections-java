@@ -17,14 +17,14 @@ public class CarrinhoDeCompras {
 
     public void removerItem(String nome) {
         List<Item> itensParaRemover = new ArrayList<>();
-        for (Item i : carrinhoDeCompras
+        for (Item i : itensParaRemover
         ) {
             if (i.getNome().equalsIgnoreCase(nome)) {
                 itensParaRemover.add(i);
             }
         }
 
-        carrinhoDeCompras.removeAll(itensParaRemover);
+        itensParaRemover.removeAll(itensParaRemover);
     }
 
     public double calcularValorTotal() {
